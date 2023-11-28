@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\bin\Debug\3DDvizhok.exe.config
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\bin\Debug\3DDvizhok.exe
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\bin\Debug\3DDvizhok.pdb
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\obj\Debug\3DDvizhok.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\obj\Debug\_3DDvizhok.Form1.resources
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\obj\Debug\_3DDvizhok.Properties.Resources.resources
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\obj\Debug\3DDvizhok.csproj.GenerateResource.cache
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\obj\Debug\3DDvizhok.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\obj\Debug\3DDvizhok.exe
+C:\Users\1\source\repos\3DDvizhok\3DDvizhok\obj\Debug\3DDvizhok.pdb
